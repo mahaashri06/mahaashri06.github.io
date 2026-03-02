@@ -1,18 +1,17 @@
 ---
 layout: default
-title: Skills
+title: Skills & Languages
+permalink: /skills/
 ---
 
 # Skills
 
-## Technical Skills
-- MS Office
-- Legal Research
-- Documentation
-- Communication Skills
-
-## Soft Skills
-- Problem Solving
 - Teamwork
 - Time Management
-- Leadership
+- Verbal & Written Communication
+
+# Languages
+
+- Tamil
+- English
+- Hindi
