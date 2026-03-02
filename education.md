@@ -1,25 +1,19 @@
 ---
 layout: default
 title: Education
+permalink: /education/
 ---
 
 # Education
 
-## Degree Name  
-Institution Name  
-Year of Completion  
+## B.A., LL.B (Hons.) – 5th Year (2021–2026)
+School of Law, SASTRA Deemed to be University, Thanjavur  
+CGPA: 7.67/10
 
-- Key achievements
-- Percentage / CGPA
+## 12th Standard (2021)
+Kamala Subramanian Matriculation Higher Secondary School, Thanjavur – 613005  
+Marks Obtained: 547/600
 
----
-
-## Higher Secondary  
-School Name  
-Year  
-
----
-
-## Secondary Education  
-School Name  
-Year  
+## 10th Standard (2019)
+Kamala Subramanian Matriculation Higher Secondary School, Thanjavur – 613005  
+Marks Obtained: 448/500
