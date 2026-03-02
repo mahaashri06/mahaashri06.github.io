@@ -1,16 +1,10 @@
 ---
 layout: default
-title: About Me
+title: Profile
+permalink: /about/
 ---
 
-# About Me
+# Profile
 
-I am a motivated and responsible individual with strong organizational and analytical skills.  
-I am committed to excellence and continuous improvement in my professional journey.
-
-## Personal Details
-
-- Name: Mahaashri J
-- Location: India
-- Languages Known: English, Tamil
-- Interests: Research, Learning, Technology
+- Studying B.A., LL.B (Hons.) in SASTRA Deemed to be University.
+- Interested in gaining knowledge on the corporate side.
