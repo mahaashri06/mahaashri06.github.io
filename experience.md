@@ -1,22 +1,14 @@
 ---
 layout: default
 title: Experience
+permalink: /experience/
 ---
 
-# Professional Experience
+# Experience
 
-## Job Title – Company Name  
-*Month Year – Present*
+## Advocate Chamber (2022–2025)
 
-- Key responsibility or achievement
-- Key responsibility or achievement
-- Key responsibility or achievement
-
----
-
-## Previous Role – Company Name  
-*Month Year – Month Year*
-
-- Responsibility
-- Responsibility
-- Responsibility
+- Observed proceedings in District Court, Subordinate Court, District Munsif Court, Family Court and Judicial Magistrate Courts at Thanjavur.
+- Observed chief examination and cross examination before the court.
+- Learned court filing procedures.
+- Assisted junior advocate in senior advocate’s office.
