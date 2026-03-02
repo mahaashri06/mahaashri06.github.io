@@ -3,26 +3,23 @@ layout: default
 title: Home
 ---
 
-# Mahaashri J
+# MAHAASHRI J
 
-### Professional Resume Website
-
-Welcome to my professional portfolio website.  
-I am a dedicated and detail-oriented professional passionate about delivering quality work and continuous learning.
+### 5th Year B.A., LL.B (Hons.) Student  
+School of Law, SASTRA Deemed to be University
 
 ---
 
-## Quick Navigation
+## Navigation
 
-- [About Me](about.md)
-- [Experience](experience.md)
-- [Education](education.md)
-- [Projects](projects.md)
-- [Skills](skills.md)
-- [Contact](contact.md)
+- [Profile](/about/)
+- [Education](/education/)
+- [Experience](/experience/)
+- [Research Articles](/research/)
+- [Skills & Languages](/skills/)
+- [Extra-Curricular Activities](/activities/)
+- [Contact](/contact/)
 
 ---
 
-### Career Objective
-
-To secure a challenging position where I can effectively contribute my skills while growing professionally and personally.
+Welcome to my professional resume website.
