@@ -109,7 +109,7 @@ competition in School of Law,
 Sastra University on the topic “
 Icons of our time”(2024).
 
-Completed Praveen Uttarard in
+- Completed Praveen Uttarard in
 Hindi.
 
 ---
