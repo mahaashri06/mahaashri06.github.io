@@ -12,13 +12,13 @@ School of Law, SASTRA Deemed to be University
 
 ## Resume Sections
 
-- [Profile](about.html)
-- [Education](education.html)
-- [Experience](experience.html)
-- [Research Articles](research.html)
-- [Skills & Languages](skills.html)
-- [Extra-Curricular Activities](activities.html)
-- [Contact](contact.html)
+- [Profile](/about/)
+- [Education](/education/)
+- [Experience](/experience/)
+- [Research Articles](/research/)
+- [Skills & Languages](/skills/)
+- [Extra-Curricular Activities](/activities/)
+- [Contact](/contact/)
 
 ---
 
