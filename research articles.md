@@ -23,5 +23,5 @@ Volume 5 Issue 6 (Co-author)
 
 ## Cyber Law & E-Commerce
 **Title:** Consent Without Choice: Rethinking E-Contracts in Digital Applications  
-Journal: IJERR – International Research Journal  
+Journal: TIJER – International Research Journal  
 Volume 12 Issue 11
