@@ -63,22 +63,22 @@ the junior advocate in my senior advocate office.
 ## Research Articles
 <a id="research"></a>
 
--Course : Labour Law
+- Course : Labour Law
  Title : Legal Protection of Workers in Unorganized Sectors.
  Journal : International Journal for Multidisciplinary Research (IJFMR)
  Volume:Volume 5 Issue 6 (Author)
  
- -Course : Intellectual Property Law
+ - Course : Intellectual Property Law
  Title : A Critical Analysis On Consideration Of Plant Patents In India.
  Journal : Indian Journal of Law and Legal Research (IJLLR)
  Volume : Volume VII Issue V (Author)
 
--Course : Labour Law
+- Course : Labour Law
  Title : Contract Labour
  Journal : International Journal for Multidisciplinary Research (IJFMR)
  Volume : Volume 5 Issue 6 (Co-author)
 
--Course : Cyber Law and E- Commerce
+- Course : Cyber Law and E- Commerce
  Title : Consent Without Choice: Rethinking E-Contracts in Digital Applications.
  Journal :TIJER - International Research Journal
  Volume :Volume 12 Issue 11
