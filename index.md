@@ -15,7 +15,7 @@ School of Law, SASTRA Deemed to be University
 - [Profile](about.md)
 - [Education](education.md)
 - [Experience](experience.md)
-- [Research Articles](research.md)
+- [Research Articles](researcharticles.md)
 - [Skills & Languages](skills.md)
 - [Extra-Curricular Activities](activities.md)
 - [Contact](contact.md)
