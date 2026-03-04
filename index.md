@@ -5,21 +5,17 @@ title: Home
 
 # MAHAASHRI J
 
-### 5th Year B.A., LL.B (Hons.) Student  
-School of Law, SASTRA Deemed to be University
+### 5th Year B.A., LL.B (Hons.)  
+School of Law, SASTRA Deemed to be University  
 
 ---
 
-## Navigation
+## Resume Sections
 
-- [Profile](/about/)
-- [Education](/education/)
-- [Experience](/experience/)
-- [Research Articles](/research/)
-- [Skills & Languages](/skills/)
-- [Extra-Curricular Activities](/activities/)
-- [Contact](/contact/)
-
----
-
-Welcome to my professional resume website.
+- [Profile](about)
+- [Education](education)
+- [Experience](experience)
+- [Research Articles](research)
+- [Skills & Languages](skills)
+- [Extra-Curricular Activities](activities)
+- [Contact](contact)
